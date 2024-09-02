@@ -6,6 +6,7 @@ DSA Project
 4. Merge Sort
 5. Quick Sort
 
+![Uploading Screen Recording -SortingAlgorithms.gif…]()
 
-   ![Uploading Screen Recording -SortingAlgorithms.gif…]()
+
    
